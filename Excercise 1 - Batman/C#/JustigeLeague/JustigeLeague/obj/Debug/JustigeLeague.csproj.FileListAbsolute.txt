@@ -3,3 +3,8 @@ G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\bin\Debug\JustigeLeague.dll
 G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\bin\Debug\JustigeLeague.pdb
 G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.dll
 G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.pdb
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeague\bin\Debug\JustigeLeague.dll
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeague\bin\Debug\JustigeLeague.pdb
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.csprojResolveAssemblyReference.cache
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.dll
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.pdb

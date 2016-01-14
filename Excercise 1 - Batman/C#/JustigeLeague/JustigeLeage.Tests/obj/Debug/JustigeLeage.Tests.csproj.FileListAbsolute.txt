@@ -5,3 +5,10 @@ G:\ScrumCOP\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\JustigeLeague.dll
 G:\ScrumCOP\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\JustigeLeague.pdb
 G:\ScrumCOP\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.dll
 G:\ScrumCOP\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.pdb
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\JustigeLeage.Tests.dll
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\JustigeLeage.Tests.pdb
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\JustigeLeague.dll
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\JustigeLeague.pdb
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.csprojResolveAssemblyReference.cache
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.dll
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.pdb

@@ -1,2 +1,7 @@
 *.class
 Excercise 1 - Batman/C#/JustigeLeague/JustigeLeague/bin/Debug/JustigeLeague.vshost.exe.manifest
+*.location
+.metadata/
+bin
+obj
+packages
