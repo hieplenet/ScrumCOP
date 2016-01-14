@@ -1,0 +1,5 @@
+G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.csprojResolveAssemblyReference.cache
+G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\bin\Debug\JustigeLeague.dll
+G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\bin\Debug\JustigeLeague.pdb
+G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.dll
+G:\ScrumCOP\C#\JustigeLeague\JustigeLeague\obj\Debug\JustigeLeague.pdb
