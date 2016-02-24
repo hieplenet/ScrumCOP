@@ -12,3 +12,5 @@ G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\
 G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.csprojResolveAssemblyReference.cache
 G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.dll
 G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\obj\Debug\JustigeLeage.Tests.pdb
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\nunit.framework.dll
+G:\ScrumKata\ScrumKata\Excercise 1 - Batman\C#\JustigeLeague\JustigeLeage.Tests\bin\Debug\nunit.framework.xml
